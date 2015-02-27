@@ -4,3 +4,6 @@
 [submodule "src/github.com/IMQS/scheduler"]
 	path = src/github.com/IMQS/scheduler
 	url = git@github.com:IMQS/scheduler.git
+[submodule "src/github.com/natefinch/lumberjack"]
+	path = src/github.com/natefinch/lumberjack
+	url = git@github.com:natefinch/lumberjack
