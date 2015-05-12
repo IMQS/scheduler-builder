@@ -4,3 +4,4 @@
 [submodule "src/github.com/IMQS/scheduler"]
 	path = src/github.com/IMQS/scheduler
 	url = git@github.com:IMQS/scheduler.git
+	branch = team-gotham
