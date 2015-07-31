@@ -1,7 +1,9 @@
-[submodule "src/github.com/natefinch/lumberjack"]
-	path = src/github.com/natefinch/lumberjack
-	url = git@github.com:natefinch/lumberjack.git
 [submodule "src/github.com/IMQS/scheduler"]
 	path = src/github.com/IMQS/scheduler
 	url = git@github.com:IMQS/scheduler.git
-	branch = team-gotham
+[submodule "src/github.com/IMQS/log"]
+	path = src/github.com/IMQS/log
+	url = git@github.com:IMQS/log
+[submodule "src/gopkg.in/natefinch/lumberjack.v2"]
+	path = src/gopkg.in/natefinch/lumberjack.v2
+	url = git@github.com:natefinch/lumberjack
