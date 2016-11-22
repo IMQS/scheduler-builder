@@ -10,3 +10,6 @@
 [submodule "src/github.com/IMQS/cli"]
 	path = src/github.com/IMQS/cli
 	url = git@github.com:IMQS/cli.git
+[submodule "src/github.com/IMQS/serviceconfigsgo"]
+	path = src/github.com/IMQS/serviceconfigsgo
+	url = git@github.com:IMQS/serviceconfigsgo.git
